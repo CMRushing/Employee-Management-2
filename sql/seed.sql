@@ -1,24 +1,24 @@
 USE employeesDB;
 
 INSERT INTO department (name)
-VALUES ("Sales");
+VALUES ("Key Creative Team");
 INSERT INTO department (name)
-VALUES ("Engineering");
+VALUES ("Script Department");
 INSERT INTO department (name)
-VALUES ("Finance");
+VALUES ("Post-Production");
 INSERT INTO department (name)
 VALUES ("Legal");
 
 INSERT INTO role (title, salary, department_id)
-VALUES ("Sales Lead", 100000, 1);
+VALUES ("Producer", 3000000 7);
 INSERT INTO role (title, salary, department_id)
-VALUES ("Lead Engineer", 150000, 2);
+VALUES("Director", 1500000, 7);
 INSERT INTO role (title, salary, department_id)
-VALUES ("Software Engineer", 120000, 2);
+VALUES("Story Producer", 650000, 2);
 INSERT INTO role (title, salary, department_id)
-VALUES ("Accountant", 125000, 3);
+VALUES ("Film Editor", 110000, 5);
 INSERT INTO role (title, salary, department_id)
-VALUES ("Legal Team Lead", 250000, 4);
+VALUES ("Camera Operator", 120000, 4);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("John", "Doe", 1, 3);
