@@ -10,7 +10,7 @@ INSERT INTO department (name)
 VALUES ("Camera Department");
 
 INSERT INTO role (title, salary, department_id)
-VALUES ("Producer", 3000000 7);
+VALUES ("Producer", 3000000, 7);
 INSERT INTO role (title, salary, department_id)
 VALUES("Director", 1500000, 7);
 INSERT INTO role (title, salary, department_id)
