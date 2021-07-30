@@ -1,4 +1,4 @@
-USE employeesDB;
+USE employee_management_system_db;
 
 INSERT INTO department (name)
 VALUES ("Key Creative Team");
