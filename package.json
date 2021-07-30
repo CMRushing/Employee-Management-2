@@ -1,32 +1,30 @@
 {
   "name": "Employee-Management-System-2",
   "version": "1.0.0",
-  "description": "Employee Management System",
+  "description": "",
   "main": "index.js",
   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node index.js"
+    "start": "node index.js"
+
+
   },
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/CMRushing/Employee-Management-2"
+    "type": "git",
+    "url": "git+https://github.com/CMRushing/Employee-Management-2"
   },
-  "author": "Cameron Rushing",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-      "url": "https://github.com/CMRushing/Employee-Management-2/issues"
+    "url": "https://github.com/CMRushing/Employee-Management-2/issues"
   },
   "homepage": "https://github.com/CMRushing/Employee-Management-2#readme",
   "dependencies": {
-      "console.table": "^0.10.0",
-      "dotenv": "^10.0.0",
-      "figlet": "^1.5.0",
-      "inquirer": "^7.3.3",
-      "mysql": "^2.18.1",
-      "mysql2": "^2.2.5",
-      "sequelize": "^6.6.5"
-  },
-  "devDependencies": {
-      "mysql-db-seed": "^0.0.4"
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+    "sequelize": "^6.6.2"
   }
 }
