@@ -10,15 +10,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/MattCross01/EmployeeManagmentSystem.git"
+      "url": "git+https://github.com/CMRushing/Employee-Management-2"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/MattCross01/EmployeeManagmentSystem/issues"
+      "url": "https://github.com/CMRushing/Employee-Management-2/issues"
     },
-    "homepage": "https://github.com/MattCross01/EmployeeManagmentSystem#readme",
+    "homepage": "https://github.com/CMRushing/Employee-Management-2#readme",
     "dependencies": {
       "console.table": "^0.10.0",
       "dotenv": "^8.2.0",
