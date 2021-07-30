@@ -3,13 +3,15 @@ const inquirer = require ("inquirer");
 require("console.table");
 // const sql = require("./sql");
 
-var connection = mysql.createConnection({
-  host: "localhost",
-  port: 3306,
-  user: "root",
-  password: "password",
-  database: "employeesDB"
+const connection = mysql.createConnection({
+    host :"localhost",
+    port:3306,
+    user:"root",
+    password: "April261995$",
+    database:"employee_management_system_db",
+
 });
+
 
 // connect to the mysql server and sql database
 connection.connect(function (err) {
