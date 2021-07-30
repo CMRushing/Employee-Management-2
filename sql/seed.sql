@@ -35,6 +35,6 @@ VALUES("Gabrielle", "Union", 12, 11);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES  ("Meagan", "Good", 13, 1);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Eve", "Jeffers", 14, 13;
+VALUES ("Eve", "Jeffers", 14, 13);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Marlanna", "Evans", 4, 5);
+VALUES ("Marlanna", "Evans", 4, 5;
