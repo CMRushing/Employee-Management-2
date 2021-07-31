@@ -18,6 +18,6 @@ The departments I used Camera Department, Post Production Department, Key Creati
 * in this assignment we built a Management system used by managers trying to keep track of their employees and for orgniazational
 purposes.
 
-## Helpful Links
+## Demo Link
 
 * [Link to the Demo](https://www.youtube.com/watch?v=74p_pImc9Wg&ab_channel=mansamemesa)
